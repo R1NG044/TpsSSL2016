@@ -1,3 +1,18 @@
+/*
+	UTN FRBA
+	Trabajo Practico Sintaxis y Semantica de los Lenguajes
+	Removedor de Comentarios
+	Profesor: Jose Maria Sola
+-	Integrantes:
+		Illi, Santiago.
+		Bio, Ronan.
+		Kim, Elias.
+		Gonzalez, Martin.
+		Matias Veron Peralta
+
+*/
+
+
 #include <stdio.h>
 
 
